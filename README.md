@@ -1,4 +1,4 @@
-# Accepted by the KnowFM workshop in ACL2025
+# HomoP-CN and Chinese Internet Homophone Restoration Ability of LLMs Exploration
 The code includes various strategies for detecting LLMs' competence in restoring Internet Chinese Homophones, and the data comprises synthetic data from Deepseek and real cases from real-world internet scenarios (e.g., Weibo).
 
 This paper discovers interesting behavior of LLM in utilizing phonological information (pinyin) to assist in homophone restoration:
