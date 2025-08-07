@@ -14,7 +14,5 @@ This paper discovers interesting behavior of LLM in utilizing phonological infor
 6. Pinyin-enhanced alone prompt cannot assist in restoration. Besides, CoT cannot function well in small models, compared to few-shot learning. The MoT(few-shot + explicitly memory chain) can perform at optimal performance
    
 
-If you are interested in our paper, you can access our paper directly: link (the paper link currently is not accessible to the public)
+If you are interested in our paper, you can access our paper directly: https://aclanthology.org/2025.knowllm-1.11/
 
-
-Citation information is coming soon
